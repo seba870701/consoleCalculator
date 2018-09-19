@@ -1,0 +1,13 @@
+c:\users\snawara\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\snawara\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\snawara\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\snawara\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\snawara\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\snawara\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\Calculator\bin\Debug\Calculator.pdb

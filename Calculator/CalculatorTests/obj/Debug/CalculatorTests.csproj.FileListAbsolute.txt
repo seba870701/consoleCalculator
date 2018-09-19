@@ -1,0 +1,19 @@
+c:\users\snawara\documents\visual studio 2015\Projects\Calculator\CalculatorTests\obj\Debug\CalculatorTests.csprojResolveAssemblyReference.cache
+c:\users\snawara\documents\visual studio 2015\Projects\Calculator\CalculatorTests\bin\Debug\CalculatorTests.dll
+c:\users\snawara\documents\visual studio 2015\Projects\Calculator\CalculatorTests\bin\Debug\CalculatorTests.pdb
+c:\users\snawara\documents\visual studio 2015\Projects\Calculator\CalculatorTests\bin\Debug\Calculator.exe
+c:\users\snawara\documents\visual studio 2015\Projects\Calculator\CalculatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\snawara\documents\visual studio 2015\Projects\Calculator\CalculatorTests\bin\Debug\Calculator.pdb
+c:\users\snawara\documents\visual studio 2015\Projects\Calculator\CalculatorTests\obj\Debug\CalculatorTests.dll
+c:\users\snawara\documents\visual studio 2015\Projects\Calculator\CalculatorTests\obj\Debug\CalculatorTests.pdb
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\CalculatorTests\bin\Debug\CalculatorTests.dll
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\CalculatorTests\bin\Debug\CalculatorTests.pdb
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\CalculatorTests\bin\Debug\Calculator.exe
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\CalculatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\CalculatorTests\bin\Debug\Calculator.pdb
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\CalculatorTests\bin\Debug\Calculator.exe.config
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\CalculatorTests\obj\Debug\CalculatorTests.csprojAssemblyReference.cache
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\CalculatorTests\obj\Debug\CalculatorTests.csproj.CoreCompileInputs.cache
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\CalculatorTests\obj\Debug\CalculatorTests.csproj.CopyComplete
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\CalculatorTests\obj\Debug\CalculatorTests.dll
+D:\Edukacja\IT - edukacja\C#\Szkolenie C#\code samples\Calculator_CalculationPerformedInLoop\Calculator\CalculatorTests\obj\Debug\CalculatorTests.pdb
